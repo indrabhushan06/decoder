@@ -23,6 +23,6 @@ def setCards(l):
         else:
             values.append(int(i[:len(i)-1]))
     return sorted(values),suits
-            
+    dwdsdd        
 print pokerEvaluate({'Joe':'8C 10S KC 9H 4S', 'Bob':'7D 2S 5D 3S AC', 'Sally':'8C AD 8D AC 9C', 'Tina':'7C 5H 8D QD KS'})
 
